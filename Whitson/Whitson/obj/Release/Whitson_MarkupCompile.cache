@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Release\
 Whitson
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\App.xaml
 21795523250
 
-101383521957
-15-614938905
+6-335415045
+14520014418
 MainWindow.xaml;Output.xaml;
 
-True
+False
 

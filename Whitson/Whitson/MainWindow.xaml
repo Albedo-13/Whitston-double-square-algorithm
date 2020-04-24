@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\ZKI\Whitson\Whitson\Background2.jpg"/>
+            <ImageBrush ImageSource="Background2.jpg"/>
         </Grid.Background>
         
         <Grid.RowDefinitions>

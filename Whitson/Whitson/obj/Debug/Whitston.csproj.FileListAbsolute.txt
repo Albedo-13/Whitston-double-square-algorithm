@@ -18,3 +18,23 @@ C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\ZKI\Whitson\Whitson\
 C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\ZKI\Whitson\Whitson\obj\Debug\Whitston.csproj.CopyComplete
 C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\ZKI\Whitson\Whitson\obj\Debug\Whitson.exe
 C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\ZKI\Whitson\Whitson\obj\Debug\Whitson.pdb
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\bin\Debug\Whitson.exe.config
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\bin\Debug\Whitson.exe
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\bin\Debug\Whitson.pdb
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\bin\Debug\System.ValueTuple.dll
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\bin\Debug\System.ValueTuple.xml
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitston.csprojAssemblyReference.cache
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\MainWindow.g.cs
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Output.g.cs
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\App.g.cs
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson_MarkupCompile.cache
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson_MarkupCompile.lref
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\MainWindow.baml
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Output.baml
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson.g.resources
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson.Properties.Resources.resources
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitston.csproj.GenerateResource.cache
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitston.csproj.CoreCompileInputs.cache
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitston.csproj.CopyComplete
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson.exe
+C:\Users\Trust\Desktop\VSProjects\Whitson\Whitson\obj\Debug\Whitson.pdb
